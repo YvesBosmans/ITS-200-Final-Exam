@@ -1,0 +1,17 @@
+h1	{	font-family: Sans-Serif, Helvectica;
+		font-size: 3em;
+		color: red;
+		margin-left: 210px;}
+		
+p	{	font-family: Sans-Serif, Helvectica;
+			font-size: 1em;
+			margin-left: 210px;
+			
+			
+}
+/* nocoursehero */
+.image	{ background-image: url("Ass-creed.jpg");
+		  background-repeat: no-repeat;
+		  margin-left: 7em;}
+
+body	{background-color: #fdbfff;}
