@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+ <html>
+	<head>
+		<meta charset="utf-8">
+		<title>ITS-200 FINAL</title>
+		<link rel="stylesheet" type="text/CSS" href="final-styles-1.css">
+		<script type = "text/javascript">
+
+			document.write("<h2>This is written in the Javascript section of the code<h2>")
+		
+		</script>
+			
+	</head>
+	<body>
+	<class = "image">
+	
+		<!--We have no content yet but this is just the format for everything-->
+		
+		<h1> This is the <em>Final</em> Project for ITS-200 </h1>
+		<hr>
+			<h2> Here is where the content will go </h2>
+			
+			<p> There will be two paragraphs of text here </p>
+			
+			<p> There are several aspects of the games: 
+				<ol>
+					<li> There are guns </li>
+					<li> There are people</li>
+					<li> The games are historical fiction </li>
+				</ol>
+			</p>
+			
+			<p> OHHHH SNAP!!! AN UNORDERED LIST??? 
+				<ul>
+					<li> lol </li>
+					<li> Here we go again </li>
+					<li> We can just add random words here that match the context</li>
+				</ul>
+			</p>
+			<p> 
+			<!-- This is our fancy link to the Assassins Creed wepage-->
+			
+				<a href = "https://www.ubisoft.com/en-us/game/assassins-creed">View the Assassins Creed webpage!
+		
+			</p>
+	</body>
